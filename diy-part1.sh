@@ -26,8 +26,8 @@ echo 'src-git OpenClash https://github.com/vernesong/OpenClash' >>feeds.conf.def
 git clone https://github.com/xiaorouji/openwrt-passwall.git package/lienol
 git clone -b luci https://github.com/xiaorouji/openwrt-passwall.git package/luci-app-passwall
 git clone https://github.com/xiaorouji/openwrt-passwall2.git package/luci-app-passwall2
-# git clone -b lede https://github.com/pymumu/luci-app-smartdns package/luci-app-smartdns
-# git clone https://github.com/pymumu/openwrt-smartdns package/openwrt-smartdns     
+git clone -b lede https://github.com/pymumu/luci-app-smartdns package/luci-app-smartdns
+git clone https://github.com/pymumu/openwrt-smartdns package/openwrt-smartdns     
 # git clone https://github.com/Tencent-Cloud-Plugins/tencentcloud-openwrt-plugin-ddns package/luci-app-tencentddns 
 git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
 git clone https://github.com/jerrykuku/luci-app-vssr.git package/luci-app-vssr
