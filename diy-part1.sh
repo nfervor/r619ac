@@ -32,3 +32,4 @@ git clone https://github.com/pymumu/openwrt-smartdns package/openwrt-smartdns
 git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
 git clone https://github.com/jerrykuku/luci-app-vssr.git package/luci-app-vssr
 # git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome 
+git clone https://github.com/kongfl888/luci-app-adguardhome.git package/luci-app-adguardhome
